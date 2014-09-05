@@ -63,4 +63,4 @@ gulp.task('watch', function () {
 
 
 /* Default task */
-gulp.task('default', ['example', 'dist_min', 'dist_full', 'webserver', 'watch']);
+gulp.task('default', ['example', 'dist_min', 'dist_full', 'watch']);

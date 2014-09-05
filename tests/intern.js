@@ -31,6 +31,8 @@ define({
 		{ browserName: 'internet explorer', version: '10', platform: 'Windows 8' },
         { browserName: 'internet explorer', version: '9', platform: 'Windows 7' },
         { browserName: 'internet explorer', version: '8', platform: 'Windows 7' },
+        { browserName: 'internet explorer', version: '7' },
+        { browserName: 'internet explorer', version: '6' },
 		{ browserName: 'firefox', version: '28', platform: [ 'OS X 10.9', 'Windows 7', 'Linux' ] },
 		{ browserName: 'chrome', version: '34', platform: [ 'OS X 10.9', 'Windows 7', 'Linux' ] },
 		{ browserName: 'safari', version: '6', platform: 'OS X 10.8' },
